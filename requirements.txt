@@ -1,0 +1,4 @@
+colorama
+wordlist
+pycryptodome
+argparse
